@@ -1,5 +1,5 @@
 {
-    "name": "IF-XTW",
+    "name": "yyu0612",
     "description": "IF-XTW",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "de673414-cf9d-4c75-a133-302e98d5f45c"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考readme.md中的（5：Caddy主页配置）",
@@ -20,6 +20,6 @@
             "value": "chacha20-ietf-poly1305"
         }
     },
-    "repository": "",
+    "repository": "https://github.com/plokiuj/0612herokus",
     "stack": "container"
 }
